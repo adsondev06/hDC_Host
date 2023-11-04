@@ -252,13 +252,9 @@ nav {
 .domain input[type="submit"]{
     background-color: #2cc76a;
     padding: 15px 30px;
-    color: #000;
+    color: #fff;
     font-size: 24px;
     cursor: pointer;
-}
-
-.domain input[type="submit"]:hover{
-    opacity: 1;
 }
 
 /* Contatos */
