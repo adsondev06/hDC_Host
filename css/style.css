@@ -355,7 +355,7 @@ footer {
     }
 
     .domain p{
-        padding: 2rem 0rem;
+        font-size: 20px;
     }
 
     .domain input[type="text"]{
