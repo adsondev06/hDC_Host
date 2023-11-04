@@ -255,7 +255,6 @@ nav {
     color: #fff;
     font-size: 24px;
     cursor: pointer;
-    opacity: .8;
 }
 
 .domain input[type="submit"]:hover{
@@ -357,6 +356,10 @@ footer {
     .domain h2 {
         padding: 0 0rem;
         font-size: 30px;
+    }
+
+    .domain  {
+        padding: 0 0rem;
     }
 
     .domain input[type="text"]{
