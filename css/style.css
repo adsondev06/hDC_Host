@@ -252,7 +252,7 @@ nav {
 .domain input[type="submit"]{
     background-color: #2cc76a;
     padding: 15px 30px;
-    color: #fff;
+    color: #000;
     font-size: 24px;
     cursor: pointer;
 }
@@ -358,8 +358,8 @@ footer {
         font-size: 30px;
     }
 
-    .domain  {
-        padding: 0 0rem;
+    .domain p{
+        padding: 2rem 0rem;
     }
 
     .domain input[type="text"]{
